@@ -1,0 +1,69 @@
+# document
+*.[oO][dD][tT] filter=lfs diff=lfs merge=lfs -text
+*.[oO][dD][pP] filter=lfs diff=lfs merge=lfs -text
+*.[oO][dD][sS] filter=lfs diff=lfs merge=lfs -text
+*.[pP][pP][tT] filter=lfs diff=lfs merge=lfs -text
+*.[pP][pP][tT][xX] filter=lfs diff=lfs merge=lfs -text
+*.[dD][oO][cC] filter=lfs diff=lfs merge=lfs -text
+*.[dD][oO][cC][xX] filter=lfs diff=lfs merge=lfs -text
+*.[xX][lL][sS] filter=lfs diff=lfs merge=lfs -text
+*.[xX][lL][sS][xX] filter=lfs diff=lfs merge=lfs -text
+*.[pP][dD][fF] filter=lfs diff=lfs merge=lfs -text
+# image
+*.[jJ][pP][gG] filter=lfs diff=lfs merge=lfs -text
+*.[jJ][pP][eE][gG] filter=lfs diff=lfs merge=lfs -text
+*.[pP][nN][gG] filter=lfs diff=lfs merge=lfs -text
+*.[tT][gG][aA] filter=lfs diff=lfs merge=lfs -text
+*.[pP][aA][aA] filter=lfs diff=lfs merge=lfs -text
+*.[gG][iI][fF] filter=lfs diff=lfs merge=lfs -text
+*.[wW][eE][bB][pP] filter=lfs diff=lfs merge=lfs -text
+*.[tT][iI][fF] filter=lfs diff=lfs merge=lfs -text
+*.[tT][iI][fF][fF] filter=lfs diff=lfs merge=lfs -text
+*.[rR][eE][fF] filter=lfs diff=lfs merge=lfs -text
+*.[sS][vV][gG] filter=lfs diff=lfs merge=lfs -text
+# video
+*.[mM][pP]4 filter=lfs diff=lfs merge=lfs -text
+*.[mM][oO][vV] filter=lfs diff=lfs merge=lfs -text
+*.[wW][mM][vV] filter=lfs diff=lfs merge=lfs -text
+*.[oO][gG][gG] filter=lfs diff=lfs merge=lfs -text
+*.[wW][eE][bB][mM] filter=lfs diff=lfs merge=lfs -text
+*.[mM][pP][gG] filter=lfs diff=lfs merge=lfs -text
+*.[mM][kK][vV] filter=lfs diff=lfs merge=lfs -text
+*.[aA][vV][iI] filter=lfs diff=lfs merge=lfs -text
+*.[fF][lL][vV] filter=lfs diff=lfs merge=lfs -text
+*.[qQ][tT][fF][fF] filter=lfs diff=lfs merge=lfs -text
+# audio
+*.[mM][pP]3 filter=lfs diff=lfs merge=lfs -text
+# 2d project
+*.[pP][sS][dD] filter=lfs diff=lfs merge=lfs -text
+*.[pP][sS][bB] filter=lfs diff=lfs merge=lfs -text
+*.[aA][iI] filter=lfs diff=lfs merge=lfs -text
+*.[eE][pP][sS] filter=lfs diff=lfs merge=lfs -text
+*.[iI][nN][dD][dD] filter=lfs diff=lfs merge=lfs -text
+*.[iI][nN][dD][lL] filter=lfs diff=lfs merge=lfs -text
+*.[iI][nN][dD][tT] filter=lfs diff=lfs merge=lfs -text
+*.[iI][nN][dD][bB] filter=lfs diff=lfs merge=lfs -text
+*.[dD][rR][aA][wW][iI][oO] filter=lfs diff=lfs merge=lfs -text
+# 3d project
+*.[bB][lL][eE][nN][dD] filter=lfs diff=lfs merge=lfs -text
+*.[fF][bB][xX] filter=lfs diff=lfs merge=lfs -text
+*.[sS][kK][pP] filter=lfs diff=lfs merge=lfs -text
+*.[sS][pP][pP] filter=lfs diff=lfs merge=lfs -text
+*.[oO][bB][jJ] filter=lfs diff=lfs merge=lfs -text
+*.[pP]3[dD] filter=lfs diff=lfs merge=lfs -text
+*.[sS][tT][eE][pP] filter=lfs diff=lfs merge=lfs -text
+*.[sS][tT][pP] filter=lfs diff=lfs merge=lfs -text
+*.[iI][gG][eE][sS] filter=lfs diff=lfs merge=lfs -text
+*.[iI][gG][sS] filter=lfs diff=lfs merge=lfs -text
+*.[dD][wW][gG] filter=lfs diff=lfs merge=lfs -text
+*.[aA][sS][mM] filter=lfs diff=lfs merge=lfs -text
+*.[pP][rR][tT] filter=lfs diff=lfs merge=lfs -text
+# archive
+*.[zZ][iI][pP] filter=lfs diff=lfs merge=lfs -text
+*.7[zZ] filter=lfs diff=lfs merge=lfs -text
+# font
+*.[tT][tT][fF] filter=lfs diff=lfs merge=lfs -text
+*.[oO][tT][fF] filter=lfs diff=lfs merge=lfs -text
+# ue
+*.[uU][aA][sS][sS][eE][tT] filter=lfs diff=lfs merge=lfs -text
+*.[uU][mM][aA][pP] filter=lfs diff=lfs merge=lfs -text
